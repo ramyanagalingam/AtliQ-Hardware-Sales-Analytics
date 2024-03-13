@@ -54,6 +54,8 @@ Enhanced Data Analysis: Utilized Power Pivot's capabilities to establish relatio
 **Visual Enhancement:** Implemented conditional formatting techniques to highlight key values and trends, improving the visual representation of data.
 **Facilitated Comparison:** Enhanced visual comparison of data points, enabling stakeholders to quickly identify patterns and anomalies.
 
+Check out my presentation video on LinkedIn:https://www.linkedin.com/posts/ramyanagalingam_dataanalytics-advancedexcelskills-codebasicslearning-activity-7173324624502484993-u2BR?utm_source=share&utm_medium=member_desktop
+
 
 
 
