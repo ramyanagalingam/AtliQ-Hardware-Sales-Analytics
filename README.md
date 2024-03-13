@@ -1,1 +1,1 @@
-# AtliQ-Sales-and-Finance-Analytics
+# AtliQ-Hardware-Sales-Analytics
